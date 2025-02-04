@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Eloy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p>Hi, I'm Eloy! I am a front-end Developer of web. I love learing new technology and skills of web, I read articles about technology to be up to date. I leaving in Spain right now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.</p>
+<p>Hi, I'm Eloy! I am a front-end Developer of web. I love learing new technology and skills of web, I read articles about technology to be up to date. I living in Spain right now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.</p>
 
 <h2>🤓 My values</h2>
 <p>🍏 Beginner's mindset and curiosity</p>
@@ -8,7 +8,7 @@
 
 <h2>🔭 Goals of 2025</h2>
 
-<p>I want to learn English. Now I watch English youtube channels and articles everyday about program technology each week, I hope I can prepared in 2026 💪. I also want to contribute more open source projects make I can improve my skills of program.</p><br>
+<p>I'm learning English to get a higher-level certification. Now I watch English youtube channels and articles everyday about program technology each week, I hope I can prepared in 2026 💪. I also want to contribute more open source projects make I can improve my skills of program.</p><br>
 
 <h2>My Skills</h2>
 
