@@ -16,13 +16,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php)](https://skillicons.dev)
 
-<h3>Library</h3>
+<h3>Framework & Library</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
-
-<h3>Frameworks</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap)](https://skillicons.dev)
 
 <h3>Databases</h3>
 
