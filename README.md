@@ -14,23 +14,23 @@
 
 <h3>Lenguajes</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,java,php)
 
 <h3>Framework & Library</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,bootstrap)
 
 <h3>Databases</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mariadb,mysql)
 
 <h3>Terminal</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,warp)
 
 <h3>Others</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vite,figma,linux,github,git)](https://skillicons.dev)<br>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vite,figma,linux,github,git)
 
 <h2>GitHub Stats</h2>
 
@@ -41,8 +41,8 @@
 </div><br>
 
 <h2>🔗 Get in touch</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
+![Skills](https://skills.syvixor.com/api/icons?i=linkedin)
   
 <p>Linkedin: https://www.linkedin.com/in/eloy-sanchez-meijide-7348272b1/</p><br>
 
