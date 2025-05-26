@@ -47,7 +47,7 @@
 <p>Linkedin: https://www.linkedin.com/in/eloy-sanchez-meijide-7348272b1/</p><br>
 
 <h2>Credit</h2> 
-<p>Github Icons: <a href="https://skillicons.dev/">Skill Icons</a> from <a href="https://github.com/tandpfun">tandpfun</a></p>
+<p>Github Icons: <a href="https://github.com/lelouchfr/skill-icons">Skill Icons</a> from <a href="https://github.com/LelouchFR">tandpfun</a></p>
 <p>Github Stats: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> from <a href="https://github.com/anuraghazra">anuraghazra</a> & <a href="https://gh-stats-gen.vercel.app/">GitHub Stats Generator</a> from <a href="https://github.com/joshxfi">joshxfi</a></p><br>
 
 <p>Last time edited on: 03/02/2025</p>
