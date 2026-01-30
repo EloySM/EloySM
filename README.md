@@ -32,6 +32,7 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vite,figma,linux,github,git)
 
+<br/>
 <h2>🔗 Get in touch</h2>
 
 ![Skills](https://skills.syvixor.com/api/icons?i=linkedin)
