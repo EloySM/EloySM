@@ -32,12 +32,6 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vite,figma,linux,github,git)
 
-<h2>GitHub Stats</h2>
-
-<div align="center">
-  
-![EloySm's Stats](https://github-readme-stats.vercel.app/api?username=EloySm&theme=chartreuse-dark&show_icons=true&hide_border=true&rank_icon=github&bg_color=151515&icon_color=7f3ace&title_color=6bd600&text_color=ffffff&include_all_commits=true) 
-
 </div><br>
 
 <h2>🔗 Get in touch</h2>
