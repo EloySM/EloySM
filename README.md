@@ -15,11 +15,11 @@
 
 <h3>Lenguajes</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,java,php)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,js,html,css,java,php)
 
 <h3>Framework & Library</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,bootstrap)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,shadcn,tailwind,bootstrap)
 
 <h3>Databases</h3>
 
