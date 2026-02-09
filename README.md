@@ -6,9 +6,10 @@
 <p>🍏 Beginner's mindset and curiosity</p>
 <p>🙌 Sharing anything I learned</p><br>
 
-<h2>🔭 Goals of 2025</h2>
+<h2>🔭 Goals of 2026</h2>
 
-<p>I'm learning English to get a higher-level certification. Now I watch English youtube channels and articles everyday about program technology each week, I hope I can prepared in 2026 💪. I also want to contribute more open source projects make I can improve my skills of program.</p><br>
+<p>I’m learning English to earn a higher-level certification. Right now, I watch English YouTube channels and read articles about programming and technology every day. I hope to be fully prepared in 2026 💪. I also want to contribute more to open-source projects so I can keep improving my programming skills.
+</p><br>
 
 <h2>My Skills</h2>
 
