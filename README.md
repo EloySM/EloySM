@@ -31,7 +31,7 @@
 
 <h3>Others</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vite,figma,linux,github,git)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vite,figma,linux,github,git,npm,pnpm)
 
 <br/>
 <h2>🔗 Get in touch</h2>
